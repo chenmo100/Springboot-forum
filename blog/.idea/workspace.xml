@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc0c4d23-0218-4692-b35a-a928f60eaef9" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.98.227.202" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.98.227.202" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>amdin/_fragments</find>
+      <find>admin/_fragments</find>
+      <find>分类</find>
+      <find>types</find>
+      <find>Type</find>
+      <find>search-btn</find>
+      <find>table-container</find>
+      <find>published</find>
+      <find>reply</find>
+      <find>commentid</find>
+      <find>commentnickname</find>
+      <find>parentComment.id</find>
+      <find>comment-container</find>
+      <find>type</find>
+      <find>animate</find>
+      <find>commentabled</find>
+      <find>clear</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>tags</replace>
+      <replace>Tag</replace>
+      <replace>tag</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1bzh3QroVrdTid4dpWSUwjGhsmS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL&#10;MySQL" />
+    <property name="last_opened_file_path" value="G:/IDEA/school/school-01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.49947312" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/admin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lrm.web" />
+      <recent name="com.lrm.web.admin" />
+      <recent name="com.lrm.service" />
+      <recent name="com.lrm.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/i18n" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApplication">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lrm.util.MD5Utils" />
+      <module name="blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lrm.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkdownUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lrm.util.MarkdownUtils" />
+      <module name="blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lrm.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BlogApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lrm" />
+      <option name="MAIN_CLASS_NAME" value="com.lrm.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lrm.BlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MD5Utils" />
+      <item itemvalue="Application.MarkdownUtils" />
+      <item itemvalue="JUnit.BlogApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.BlogApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Utils" />
+        <item itemvalue="Application.MarkdownUtils" />
+        <item itemvalue="JUnit.BlogApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0c4d23-0218-4692-b35a-a928f60eaef9" name="Default" comment="" />
+      <created>1507866632037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507866632037</updated>
+      <workItem from="1507866633768" duration="7528000" />
+      <workItem from="1507897581948" duration="2752000" />
+      <workItem from="1507940788489" duration="6639000" />
+      <workItem from="1508031963373" duration="6760000" />
+      <workItem from="1508112413260" duration="12050000" />
+      <workItem from="1508208344164" duration="4335000" />
+      <workItem from="1508376754285" duration="729000" />
+      <workItem from="1508463272338" duration="16744000" />
+      <workItem from="1508576473343" duration="7243000" />
+      <workItem from="1508643113873" duration="14985000" />
+      <workItem from="1508718188014" duration="19246000" />
+      <workItem from="1508807261751" duration="11836000" />
+      <workItem from="1508888632129" duration="11387000" />
+      <workItem from="1508930791069" duration="1871000" />
+      <workItem from="1508978521621" duration="1407000" />
+      <workItem from="1509017244941" duration="504000" />
+      <workItem from="1509580168354" duration="1037000" />
+      <workItem from="1511423824017" duration="244000" />
+      <workItem from="1511424241158" duration="227000" />
+      <workItem from="1512292279887" duration="405000" />
+      <workItem from="1512354751596" duration="356000" />
+      <workItem from="1512356467709" duration="3732000" />
+      <workItem from="1512437358156" duration="262000" />
+      <workItem from="1512441752989" duration="995000" />
+      <workItem from="1513319246265" duration="1130000" />
+      <workItem from="1513405989111" duration="1932000" />
+      <workItem from="1513474120264" duration="20000" />
+      <workItem from="1513563201688" duration="102000" />
+      <workItem from="1514418425125" duration="965000" />
+      <workItem from="1514426313029" duration="641000" />
+      <workItem from="1514471551725" duration="241000" />
+      <workItem from="1514513051046" duration="270000" />
+      <workItem from="1514515019486" duration="775000" />
+      <workItem from="1514554513485" duration="208000" />
+      <workItem from="1514976117497" duration="1045000" />
+      <workItem from="1515228673810" duration="412000" />
+      <workItem from="1515398421961" duration="17332000" />
+      <workItem from="1515852772238" duration="571000" />
+      <workItem from="1516283947319" duration="550000" />
+      <workItem from="1516525311085" duration="556000" />
+      <workItem from="1516629351725" duration="657000" />
+      <workItem from="1516630420109" duration="4000" />
+      <workItem from="1516702394811" duration="915000" />
+      <workItem from="1516709333643" duration="300000" />
+      <workItem from="1516941416279" duration="806000" />
+      <workItem from="1516965420861" duration="6000" />
+      <workItem from="1517191198759" duration="398000" />
+      <workItem from="1517402336029" duration="130000" />
+      <workItem from="1517991546607" duration="922000" />
+      <workItem from="1519345836289" duration="182000" />
+      <workItem from="1519372395871" duration="1756000" />
+      <workItem from="1519378288910" duration="1975000" />
+      <workItem from="1519788319061" duration="641000" />
+      <workItem from="1519800245148" duration="245000" />
+      <workItem from="1520605582723" duration="12000" />
+      <workItem from="1521690207449" duration="46000" />
+      <workItem from="1521723675692" duration="348000" />
+      <workItem from="1522844033852" duration="841000" />
+      <workItem from="1522929448480" duration="4000" />
+      <workItem from="1523023274531" duration="1401000" />
+      <workItem from="1523063941048" duration="1000" />
+      <workItem from="1523328107269" duration="609000" />
+      <workItem from="1523435978322" duration="430000" />
+      <workItem from="1524148023600" duration="710000" />
+      <workItem from="1524662421735" duration="602000" />
+      <workItem from="1524893653899" duration="3773000" />
+      <workItem from="1589640632196" duration="972000" />
+      <workItem from="1589680695824" duration="2684000" />
+      <workItem from="1589767672593" duration="5030000" />
+      <workItem from="1589794887024" duration="2204000" />
+      <workItem from="1589848497889" duration="4409000" />
+      <workItem from="1589936272154" duration="623000" />
+      <workItem from="1589937806219" duration="1221000" />
+      <workItem from="1590224510058" duration="1682000" />
+      <workItem from="1590281031182" duration="1645000" />
+      <workItem from="1590316132977" duration="598000" />
+      <workItem from="1590367405485" duration="2216000" />
+      <workItem from="1590369746445" duration="5330000" />
+      <workItem from="1590504807651" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 11h 15m 55s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 11h 56m 24s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 11h 59m 20s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 00m 13s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 01m 59s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 02m 59s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 05m 09s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 08m 43s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 12m 08s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 13m 58s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589640939313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589640939313" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1590367547328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590367547328" />
+    <state width="748" height="299" key="GridCell.Tab.0.bottom" timestamp="1590392874080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590392874080" />
+    <state width="748" height="299" key="GridCell.Tab.0.center" timestamp="1590392874080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590392874080" />
+    <state width="748" height="299" key="GridCell.Tab.0.left" timestamp="1590392874080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590392874080" />
+    <state width="748" height="299" key="GridCell.Tab.0.right" timestamp="1590392874080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590392874080" />
+    <state width="748" height="299" key="GridCell.Tab.1.bottom" timestamp="1590392874081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590392874081" />
+    <state width="748" height="299" key="GridCell.Tab.1.center" timestamp="1590392874081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590392874081" />
+    <state width="748" height="299" key="GridCell.Tab.1.left" timestamp="1590392874081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590392874081" />
+    <state width="748" height="299" key="GridCell.Tab.1.right" timestamp="1590392874081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="299" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590392874081" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1590370365153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590370365153" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1590504806732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590504806732" />
+    <state x="207" y="135" width="1180" height="588" key="new project wizard" timestamp="1590504932561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="207" y="135" width="1180" height="588" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590504932561" />
+    <state x="855" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590368886675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="855" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590368886675" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>blog</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.thymeleaf:thymeleaf:3.0.2.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
